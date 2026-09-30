@@ -44,14 +44,6 @@ The project also includes confusion matrices and ROC curve comparisons.
 ├── disease_prediction_model_results.csv
 ├── data/
 └── README.md
-```
-
-### 🚀 Run Locally
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost jupyter
 jupyter notebook
 ```
 
